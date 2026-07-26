@@ -1,0 +1,30 @@
+# Core
+streamlit>=1.38.0
+python-dotenv>=1.0.0
+pandas>=2.0.0
+numpy>=1.26.0
+plotly>=5.20.0
+Pillow>=10.0.0
+
+# AI Providers
+groq>=0.9.0
+mistralai>=1.0.0
+google-generativeai>=0.7.0
+
+# Auth & Security
+bcrypt>=4.1.0
+PyJWT>=2.8.0
+
+# Resume / PDF
+PyPDF2>=3.0.0
+pdfplumber>=0.11.0
+reportlab>=4.1.0
+
+# UI extras
+streamlit-option-menu>=0.3.13
+streamlit-extras>=0.4.0
+
+# Optional (voice / webcam) — app runs fully without these
+SpeechRecognition>=3.10.0
+pyttsx3>=2.90
+opencv-python-headless>=4.9.0
