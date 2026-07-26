@@ -1,4 +1,4 @@
-# 🧠 InterviewVerse AI Pro
+# Hire Nova AI Pro
 
 A premium, single-file AI-powered mock interview platform built with Streamlit. Practice
 technical, HR, behavioral, and coding interviews against 12 AI interviewer personas and
