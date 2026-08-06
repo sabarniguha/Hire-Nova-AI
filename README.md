@@ -83,6 +83,12 @@ isn't installed, the related feature degrades gracefully (e.g. a plain radio nav
 the animated option-menu, a SHA-256 fallback instead of bcrypt) instead of crashing the app.
 Check **Settings → System Status** at any time to see what's active.
 
+
+The link of the app is:- https://hire-nova-ai-hhratcbwyc2zfsuccmtjt4.streamlit.app/
+
 ## 📄 License
 
 Built as a portfolio-grade demonstration project.
+
+
+
